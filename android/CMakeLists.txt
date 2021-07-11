@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.4.1)
 
 add_library(
-    native_add
+    native_app_token
     SHARED
-    ../lib/Classes/native_app_token.cpp
+    ../ios/Classes/NativeAppToken.c.c
 )

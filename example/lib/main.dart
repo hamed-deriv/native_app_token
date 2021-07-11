@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'package:native_app_token/native_app_token.dart';
 
 void main() => runApp(MyApp());
